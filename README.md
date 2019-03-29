@@ -12,7 +12,7 @@ To run a shell session:
 
 docker exec -ti docker-mongo  sh
 
-docker-mongo                  latest              fbd52a2eded0        21 minutes ago      124MB
+docker-mongo                  latest              fbd52a2eded0        21 minutes ago      128MB
 
 MongoDB server version: 4.0.5
 
