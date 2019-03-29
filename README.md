@@ -6,7 +6,7 @@ To use the mongo shell client:
 
 docker exec -ti docker-mongo mongo
 
-> show databases
+show databases
 
 To run a shell session:
 
