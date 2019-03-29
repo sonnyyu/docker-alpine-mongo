@@ -1,3 +1,5 @@
+mkdir data
+
 docker build -t docker-mongo .
 
 docker run -d --name docker-mongo -p 27017:27017 -v $(pwd)/data/data:/data/db docker-mongo
